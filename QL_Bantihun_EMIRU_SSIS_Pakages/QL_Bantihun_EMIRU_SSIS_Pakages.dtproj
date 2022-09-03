@@ -5,8 +5,8 @@
   <SchemaVersion>9.0.1.0</SchemaVersion>
   <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkZGwzMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAiIHhtbG5zOmRkbDMwMF8zMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAvMzAwIiB4bWxuczpkZGw0MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAiIHhtbG5zOmRkbDQwMF80MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAvNDAwIiB4bWxuczpkZGw1MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEzL2VuZ2luZS81MDAiIHhtbG5zOmRkbDUwMF81MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEzL2VuZ2luZS81MDAvNTAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
   <Database>
-    <Name>Duna_Housing_SSIS_Project.database</Name>
-    <FullPath>Duna_Housing_SSIS_Project.database</FullPath>
+    <Name>QL_Bantihun_EMIRU_SSIS_Pakages.database</Name>
+    <FullPath>QL_Bantihun_EMIRU_SSIS_Pakages.database</FullPath>
   </Database>
   <DataSources />
   <DataSourceViews />
@@ -14,38 +14,38 @@
     <Manifest>
       <SSIS:Project SSIS:ProtectionLevel="EncryptSensitiveWithUserKey" xmlns:SSIS="www.microsoft.com/SqlServer/SSIS">
         <SSIS:Properties>
-          <SSIS:Property SSIS:Name="ID">{d9d168de-83cd-4c08-9f55-7a9b1c83ef37}</SSIS:Property>
-          <SSIS:Property SSIS:Name="Name">Duna_Housing_SSIS_Project</SSIS:Property>
+          <SSIS:Property SSIS:Name="ID">{11e06e8d-24b9-4a49-9319-2bc88b57eb15}</SSIS:Property>
+          <SSIS:Property SSIS:Name="Name">QL_Bantihun_EMIRU_SSIS_Pakages</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionBuild">0</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionComments">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="CreationDate">2022-08-18T20:05:24.2296935-04:00</SSIS:Property>
+          <SSIS:Property SSIS:Name="CreationDate">2022-09-03T10:16:31.7351346-04:00</SSIS:Property>
           <SSIS:Property SSIS:Name="CreatorName">EMIRUBANTIHUN\Bante</SSIS:Property>
           <SSIS:Property SSIS:Name="CreatorComputerName">EMIRUBANTIHUN</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACSe87F1WUkuZ/ViCJSYBUQAAAAACAAAAAAAQZgAAAAEAACAAAAC1bVrVOtA4ll3k6ICCu/gFfRI3zrATQcnD1C/GBPUjmQAAAAAOgAAAAAIAACAAAAB+OaMdjI0sUAQLy2x+jXbx0VDvL5d1XmcBDJ3uo25Zf5AAAAAOUFWWxf+Ow3HE6TrwDbnLp2Hyj15Ik1EPTA2I1kicsgYztICvl8cjpUODMzYN1n64PiwE3OcauhaD1Sv2jo0b8Y+up7nhSbiNRZaY3+tDwSysJvhWJaHiSKuT94+Usp35M2NFRqMNsba9TbCxERSrIG7UaSaGa5ghhXPcHkM0SEWDBeZ9o1BktD2YJYzOXLxAAAAAa08M0J2RYPxJ5vUzoUPfd9bfez1GGVojwy/B6/+G1aczQNEmQGcRaH6sq9tAIiuhGL9lwWu+bnyvvEyskfzVwg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACSe87F1WUkuZ/ViCJSYBUQAAAAACAAAAAAAQZgAAAAEAACAAAAB8h91EbLXxZtI7qyY0fcv1Y3bBF0TpUdWVUe5r0TOkqAAAAAAOgAAAAAIAACAAAACV9CK/1Rkg4V6m1ElJblTjeL/xg4v//+jYu5oV3p4+OpAAAACDfv/AfVhFoJpYcjMmxxc3411j3IVo0cXLqGhz+xbKMU85TgpVj3cYwWv+9UidN5+WwV6IqziBq0GYcT3RT5vBHvhy5hHcLn2ChZqxsEZ1PGVS7lkhbIoau9kHxoQaWYQjASU2Nj23gvT+IzJGBMOYQpKZpAMQrWFu2RnOLWEQ5S8S2ENVPym5r9L5cUIX9vhAAAAAFrUyHTQMwA8CsibRtGAlPPAP184E+Bbjx5NJBxWv3YcviiXIP36kF0AVNGra7nRP4jawIU7YNk8qFHyU/odcAA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
-          <SSIS:Package SSIS:Name="Duna_Project.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="Package.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
           <SSIS:ProjectConnectionParameters />
           <SSIS:PackageInfo>
-            <SSIS:PackageMetaData SSIS:Name="Duna_Project.dtsx">
+            <SSIS:PackageMetaData SSIS:Name="Package.dtsx">
               <SSIS:Properties>
-                <SSIS:Property SSIS:Name="ID">{F1D27DD9-1E8E-405E-AC22-0194E1784A02}</SSIS:Property>
-                <SSIS:Property SSIS:Name="Name">Duna_Project</SSIS:Property>
+                <SSIS:Property SSIS:Name="ID">{B9ECACD3-A987-4DA5-9735-E8ACE9CEFA8F}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionBuild">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{6AF4237D-1C5C-43A0-A8C3-2871A79CDC00}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{F01832A9-C553-4F51-AD8D-11F09B10F1BA}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
