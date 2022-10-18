@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="9/3/2022 10:33:07 AM"
+  DTS:CreationDate="9/3/2022 10:22:35 AM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="EMIRUBANTIHUN"
   DTS:CreatorName="EMIRUBANTIHUN\Bante"
-  DTS:DTSID="{67335FB1-06A1-4898-BD75-6B28D4B3E698}"
+  DTS:DTSID="{981DAEA5-51D8-4587-985C-20AB525C3532}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.2000.166"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Pkg_Bantihun_EMIRU_LendingWise"
+  DTS:ObjectName="Pkg_Bantihun_EMIRU_Source_Name"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{852B0890-DBBF-4454-9222-CD137801F30C}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{65AC845D-E743-45C6-8C38-5171F00C9807}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
