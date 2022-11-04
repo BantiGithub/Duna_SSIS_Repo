@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Bantihun_EMIRU_SSIS_Pakages</Name>
-    <LastWriteTime>2022-10-17T23:18:02.4421195Z</LastWriteTime>
+    <LastWriteTime>2022-11-01T06:24:31.9952108Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Pkg_Bantihun_EMIRU_LendingWise.dtsx</Name>
-      <LastWriteTime>2022-09-03T14:46:29.3045744Z</LastWriteTime>
+      <LastWriteTime>2022-11-04T14:56:51.1287919Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
@@ -28,12 +28,12 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>PkG_Bantihuhn_EMIRU_LendingQB.dtsx</Name>
-      <LastWriteTime>2022-10-17T23:10:53.0520407Z</LastWriteTime>
+      <LastWriteTime>2022-11-04T14:01:26.3891917Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_UnderWriterRiskAccessCatgory.dtsx</Name>
-      <LastWriteTime>2022-10-14T05:05:47.1965273Z</LastWriteTime>
+      <LastWriteTime>2022-11-01T14:01:43.8069177Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
