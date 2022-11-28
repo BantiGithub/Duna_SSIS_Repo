@@ -9,7 +9,7 @@
         <WinAuthUserName />
         <WinAuthDomain />
         <ServerName>EMIRUBANTIHUN</ServerName>
-        <PathOnServer>/SSISDB/QL_Bantihun_Emiru_ETL/QL_Bantihun_EMIRU_SSIS_Pakages</PathOnServer>
+        <PathOnServer>/SSISDB/Pkg-Bantihun-EMIRU-QuickenLoan/QL_Bantihun_EMIRU_SSIS_Pakages</PathOnServer>
         <UserIDs />
         <UserPasswords />
         <OfflineMode>false</OfflineMode>
